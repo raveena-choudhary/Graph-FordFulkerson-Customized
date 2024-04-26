@@ -1,0 +1,24 @@
+------------------------------SAP Algo Results----------------------------
+Max Flow: 6
+Number of augmenting paths: 6
+ML: 6.0
+MPL: 0.034482758620689655
+Total Edges in a graph: 3181
+------------------------------DFS Like Algo Results----------------------------
+Max Flow: 286
+Number of augmenting paths: 99
+ML: 20.0
+MPL: 0.11494252873563218
+Total Edges in a graph: 3181
+------------------------------Maximum Capacity Algo Results----------------------------
+Max Flow: 286
+Number of augmenting paths: 13
+ML: 11.0
+MPL: 0.06321839080459771
+Total Edges in a graph: 3181
+------------------------------Random Algo Results----------------------------
+Max Flow: 286
+Number of augmenting paths: 54
+ML: 10.0
+MPL: 0.05747126436781609
+Total Edges in a graph: 3181
