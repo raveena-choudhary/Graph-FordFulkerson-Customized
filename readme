@@ -1,5 +1,4 @@
-# COMP_6651_PROJ_40232370
-Author: Raveena Choudhary, 40232370
+Author: Raveena Choudhary
 
 This project focuses on implementing and assessing four augmenting path algorithms designed for the Ford-Fulkerson algorithm, aiming to determine the maximum flow within a graph.
 The goal is to scrutinize the efficiency and computational performance of these algorithms on randomly created source-sink graphs.
